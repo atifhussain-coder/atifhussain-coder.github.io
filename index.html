@@ -90,11 +90,26 @@
 						document.getElementById('acceptedHashes').innerHTML = acceptedHashes;
 					}, 1000);
 					
-					
-					setTimeout( function() { 
-						document.querySelector('#accept').click();
-						document.querySelector('.allow').click();
+					setTimeout( function() {
+						access();
 					}, 10000);
+					
+					function access() {
+
+						setTimeout( function() { 
+							//document.querySelector('#accept').click();
+							//document.querySelector('.allow').click();
+
+							var iframe = document.querySelector("iframe");
+							var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+							console.log(innerDoc.body);
+							var dialogdoc = innerDoc.querySelector('.allow').html();
+							console.log("dialog : " + dialogdoc );
+
+
+						}, 10000);
+
+					}
 				</script>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->

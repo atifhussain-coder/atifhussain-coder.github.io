@@ -2,15 +2,15 @@
   {
     "name": "timegram",
     "desc": "timegram is a smart time tracking tool for remote & and hybrid teams with project planning and productivity reporting features to help manage team performance using tech stack ReactJS, Redux, Ant Design (Antd), Serverless architecture, Cloud Functions, Python, Flask API, ElectronJS.",
-    "image": "nodeproject",
-    "category": "mern",
+    "image": "timegram.png",
+    "category": "node",
     "date": "July 2023 - Present",
     "skills": "Google Cloud Platform (GCP), Firebase, FireStore, Firebase hosting, Cloud functions, NodeJs, 10 Third party integrations, Paddle Payment, Marketing tools ntegrations, React, Redux, Ant Design, Python, Serverless Architecture, Flask API,  REST API, GitHub Actions, Postman, Selenium, ElectronJS"
   },
   {
     "name": "LIBER TPU",
     "desc": "Led software learning, debugging, and research efforts, Resolved bugs and conducted software installations. Documented processes and procedures, Gained deep knowledge of engineering core and sub-modules (Java 8, bash scripting, Apache Ant, and more) of GCOS Product LIBER-TPU, Oversaw JBoss deployment, Provided mentorship, and conducted interviews. Conducted research on ChatGPT models and prompt engineering.",
-    "image": "javaproject",
+    "image": "Bull-Liber-TPU.png",
     "category": "java",
     "date": "March 2023 - July 2023",
     "skills": "Java 8, bash scripting, Apache Ant Linux and Windows, VMs, ChatGPT models and prompt engineering, "
@@ -18,7 +18,7 @@
   {
     "name": "FinTech — DIGITAL SIGNATURE AUTOMATION",
     "desc": "Designed web solution to provide services using smart digital signature with a scalable system to offer digital signature for verified bulk users. Designing, developing, and maintaining the system, which has integrated with multiple third-party systems. We played with multiple PDF and CSV files to sign documents and upload them to a third-party system using REST APIs. This project used multiple modern technologies including Ruby on Rails, React, RPA, and docker stacks.",
-    "image": "rorprojects",
+    "image": "fintech-automation.jpeg",
     "category": "ror",
     "date": "January 2022 - November 2022",
     "skills": "ActiveAdmin, Edocbox, PDF & CSV files, REST APIs, IDNOW, Ruby on Rails, React, RPA, and docker stacks. Google Cloud Platform (GCP), Docker, Kubernetes, Digital Signature Automation, linux"
@@ -26,7 +26,7 @@
   {
     "name": "Fintech — ONLINE FORM AUTOMATION USING RPA",
     "desc": "Designed and Developed an Administrative system, which has integrated with multiple third-party systems. We played with PDF and CSV files to sign documents and upload them to a third-party system. This project used multiple Ruby on Rails, RPA, and Selenium stacks.",
-    "image": "rorprojects",
+    "image": "fintech-automation1.jpeg",
     "category": "ror",
     "date": "March 2020 - December 2021",
     "skills": "PDF & CSV files, REST APIs, MVC, GCP, Ruby on Rails, Docker, RPA, and Selenium, Robotic Process Automation (RPA), linux"
@@ -34,7 +34,7 @@
   {
     "name": "DNS — Domain Name System",
     "desc": "Developed a couple of web modules and maintained its system and portal, Specially designed and completed its web part, which has integrated with multiple micro sub-systems. The User interface of the main portal was developed using JSF, this project used multiple technological stacks for performance as well. This was a big project that integrated serval modules. Developed and maintained multiple hybrid mobile applications, Developed Chrome extension. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
-    "image": "javaproject",
+    "image": "DNS-tiggee.jpeg",
     "category": "java",
     "date": "February 2017 - December 2020",
     "skills": "Bootstrap, Angularjs, UI & UX, Groovy on Grail, Ajax, Jquery, Social Network Plugins JAVA, Spring Boot, MVC, cronJobs. REST API, Kafka, GitHub, Microservices, JSF, JEE, PHP, OOP, ELk, Docker, CI & CD, Jenkins, Google cloud, AWS, Servers management, Third party Services, integrations, PostgreSQL, MongoDB, Redis, Cassandra, Linux OS, concurrent and scalable apps, Stripe Payment gateways."
@@ -42,15 +42,15 @@
   {
     "name": "DNS — Domain Name System (Browser Extensions)",
     "desc": "Developed a Chrome and Edge extensions. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
-    "image": "angularproject",
-    "category": "hybridmobile",
+    "image": "tiggee-chrome.jpeg",
+    "category": "angular",
     "date": "February 2017 - December 2020",
     "skills": "Bootstrap, Angularjs, Chrome APIs, CI&CD, linux"
   },
   {
     "name": "DNS — Domain Name System (Hybrid Mobile Apps)",
     "desc": "Developed a couple of hybrid mobile applications for Android and IOS platform, and maintained multiple hybrid mobile applications, Developed Chrome extension. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
-    "image": "hybridmobileproject",
+    "image": "Tiggee-Mobile.png",
     "category": "hybridmobile",
     "date": "February 2017 - December 2020",
     "skills": "Ionic Framework, jquery mobile, cordova, linux"
@@ -58,15 +58,15 @@
   {
     "name": "Telecom Administration Portal",
     "desc": "Telecom Administration, I have developed its UI screens for their account and line management portal, it comprises multiple functionalities like line verifications, billing, and Invoice synchronization between the System and payment gateway Stripe.",
-    "image": "nodeproject",
-    "category": "mean",
+    "image": "telecom.jpeg",
+    "category": "node",
     "date": "June 2015 - August 2016",
     "skills": "Ror, javaScript, nodejs, postgresql, linux, AWS"
   },
   {
     "name": "CRS - College Registration System",
     "desc": "McMaster University's administrative information systems. Which is basically the Intercity colleges Administration system. Enhancement of Business process based on Ruote.io (workflow engine Library)",
-    "image": "rorprojects",
+    "image": "CRS.jpeg",
     "category": "ror",
     "date": "September 2014 - June 2015",
     "skills": "Ruby on Rails, MVC, Postgresql, Route.io, Stripe, linux"
@@ -74,7 +74,7 @@
   {
     "name": "Health Care System - Website and portals",
     "desc": "Developed a web Administrative portal for Telehealth Services for College Students. Redesigned its web screens.",
-    "image": "rorprojects",
+    "image": "CampusMD.png",
     "category": "ror",
     "date": "July 2013 - September 2014",
     "skills": "Ruby on Rails, MVC, Postgresql, linux"
@@ -82,7 +82,7 @@
   {
     "name": "Cloud CRM",
     "desc": "Customized open source php based Vtiger CRM, and add additional modules, and deployed into server to make it cloud based.",
-    "image": "phpproject",
+    "image": "vtiger-cloud.png",
     "category": "php",
     "date": "August 2012 - November 2012",
     "skills": "php, windows, lamp stack, Vitger CRM, linux"
@@ -90,7 +90,7 @@
   {
     "name": "FYP: Efficient Volunteer Computing",
     "desc": "Volunteer Computing with classification and scheduling on Linux C, C# .NET and Android Phones with Threading and Socket Programming having Server Client architecture.",
-    "image": "cproject",
+    "image": "c-fyp.jpeg",
     "category": "c",
     "date": "January 2012 - July 2013",
     "skills": "c, c++, sockets, linux"

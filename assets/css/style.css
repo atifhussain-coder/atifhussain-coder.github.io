@@ -27,7 +27,7 @@ body {
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 40.5%;
   overflow-x: hidden;
 }
 html::-webkit-scrollbar {
@@ -677,7 +677,7 @@ header .navbar ul li a:hover {
   top: 85%;
   left: 0;
   background: rgba(255, 255, 255, 0.9);
-  display: flex;
+  /*display: flex;*/
   flex-direction: column;
 }
 .work .box-container .box .content .tag {

@@ -152,6 +152,16 @@ header .navbar ul li a:hover{
   header .navbar.nav-toggle{
     right: 0;
   }
+
+  body {
+    width: 100%;
+  }
+  .skills .container .row {
+    overflow: auto;
+  }
+  .footer {
+    min-height: 1150px !important;
+  }
 }
 /* hamburger icon ends */
 
@@ -187,7 +197,7 @@ header .navbar ul li a:hover{
   width: 50%;
 }
 /*circles on timeline*/
-.experience .container::after {    
+.experience .container::after {
   content: "\f0b1";
   position: absolute;
   width: 25px;

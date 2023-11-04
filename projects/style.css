@@ -280,6 +280,23 @@ header .navbar ul li a:hover{
   .work .box-container .grid-item .box{
     width: 95% !important;
   }
+  .grid-item .node {
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  /* Your tablet-specific CSS rules go here */
+  body {
+    width: 100%;
+  }
+  .skills .container .row {
+    overflow: auto;
+  }
+  .footer {
+    min-height: 1150px !important;
+  }
+
 }
 
 /* back to home button */

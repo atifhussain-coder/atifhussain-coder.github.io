@@ -332,7 +332,7 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    /*margin-top: -12rem;*/
   }
   .home .content p {
     font-size: 2.2rem;
@@ -926,6 +926,16 @@ header .navbar ul li a:hover {
   .morebtn {
     margin-top: 3rem;
   }
+
+  body {
+    width: 100%;
+  }
+  .skills .container .row {
+    overflow: auto;
+  }
+  .footer {
+    min-height: 1150px !important;
+  }
 }
 /* experience media queries ends */
 /* experience section ends */
@@ -1083,9 +1093,24 @@ form .button-area {
     width: 100%;
     margin-right: 2rem;
   }
+  /*.footer {*/
+  /*  min-height: 1150px !important;*/
+  /*}*/
 }
 /* contact section media queries ends */
 /* contact section ends */
+@media (min-width: 910px) and (max-width: 1400px) {
+  .footer {
+    min-height: 1100px !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 910px) {
+  .footer {
+    min-height: 450px !important;
+  }
+}
+
 
 /* footer section starts */
 .footer {

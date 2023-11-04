@@ -1108,7 +1108,7 @@ form .button-area {
 /* contact section ends */
 @media (min-width: 910px) and (max-width: 1400px) {
   .footer {
-    min-height: 1100px !important;
+    /*min-height: 1100px !important;*/
   }
 }
 

@@ -934,7 +934,13 @@ header .navbar ul li a:hover {
     overflow: auto;
   }
   .footer {
-    min-height: 1150px !important;
+    /*min-height: 1150px !important;*/
+  }
+  .home {
+    top: 50px !important;
+  }
+  .skills .container .row {
+    overflow: auto;
   }
 }
 /* experience media queries ends */
@@ -1227,6 +1233,7 @@ form .button-area {
   }
   section {
     padding: 2rem;
+    margin-top: 40px;
   }
 }
 /* common media queries ends*/

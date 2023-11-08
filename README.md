@@ -1,3 +1,3 @@
-# 10pearls-atifhussain
+# atifhussain-coder
 
-https://10pearls-atifhussain.github.io/
+https://atifhussain-coder.github.io/

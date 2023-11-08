@@ -1118,6 +1118,32 @@ form .button-area {
   }
 }
 
+.award-section {
+  background-image: url('../images/award-image.jpg');
+  background-size: cover;
+  /*background-position: center;*/
+  padding: 80px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.award-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.award-item {
+  margin: 20px;
+}
+
+.award-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+.award-item p {
+  font-size: 18px;
+}
 
 /* footer section starts */
 .footer {

@@ -1282,3 +1282,21 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+#whatsapp {
+  font-size: 0;
+  height: 70px;
+  display: block;
+  overflow: hidden;
+  position: fixed;
+  right: 7%;
+  bottom: 20px;
+  text-decoration: none;
+  width: 70px;
+  z-index: 1025;
+}
+
+.whatsapp-icon {
+  height: 70px;
+  width: 70px;
+}

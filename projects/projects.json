@@ -16,6 +16,30 @@
     "skills": "Java 8, bash scripting, Apache Ant Linux and Windows, VMs, ChatGPT models and prompt engineering, "
   },
   {
+    "name": "Blog Digitalizer.pk",
+    "desc": "Digitalizer.PK is a technology blog that covers AI, the metaverse, software development, and the impact of tech on various industries. It offers in-depth articles, guides, and discussions on AI tools and their ethical implications across sectors like journalism, law, and education. The site features practical advice on leveraging technology for personal development and professional use. Content is contributed by technology enthusiasts, including Atif Hussain, and the blog encourages reader engagement through updates and category-based navigation. Digitalizer.PK positions itself as a knowledge hub for tech-savvy readers interested in the latest technological advancements and trends.",
+    "image": "digitalizer.pk.png",
+    "category": "wordpress",
+    "date": "January 2023 -- Presents",
+    "skills": "Wordpress, plugins, Open AI API, Server managements, AI Content writing, Latest AI tools, Blogging, Tech New etc "
+  },
+  {
+    "name": "PortFolio ZainSafeDrive.com",
+    "desc": "Digitalizer.PK is provide driving services in UAE Region, they have couple of packages",
+    "image": "zainSafedrive.png",
+    "category": "Boostrape",
+    "date": "Feb 2024 - Feb 2024",
+    "skills": "Boostrape, Portfolio, 3rd party integrations, Server managements, AI Content writing, Latest AI tools, Blogging, Tech New etc "
+  },
+  {
+    "name": "PortFolio KarimNetworkServices.com",
+    "desc": "KarimNetworkServices.com is a software solution provider in Dubai region provide many software related services.",
+    "image": "karimnetworkservices.png",
+    "category": "Boostrape",
+    "date": "Feb 2024 - Feb 2024",
+    "skills": "Boostrape, Portfolio, 3rd party integrations, Server managements, AI Content writing, Latest AI tools, Blogging, Tech New etc "
+  },
+  {
     "name": "FinTech — DIGITAL SIGNATURE AUTOMATION",
     "desc": "Designed web solution to provide services using smart digital signature with a scalable system to offer digital signature for verified bulk users. Designing, developing, and maintaining the system, which has integrated with multiple third-party systems. We played with multiple PDF and CSV files to sign documents and upload them to a third-party system using REST APIs. This project used multiple modern technologies including Ruby on Rails, React, RPA, and docker stacks.",
     "image": "fintech-automation.jpeg",

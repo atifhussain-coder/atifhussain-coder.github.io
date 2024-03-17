@@ -32,7 +32,7 @@
     "skills": "PDF & CSV files, REST APIs, MVC, GCP, Ruby on Rails, Docker, RPA, and Selenium, Robotic Process Automation (RPA), linux"
   },
   {
-    "name": "DNS — Domain Name System",
+    "name": "Constellix DNS — Domain Name System Record Management",
     "desc": "Developed a couple of web modules and maintained its system and portal, Specially designed and completed its web part, which has integrated with multiple micro sub-systems. The User interface of the main portal was developed using JSF, this project used multiple technological stacks for performance as well. This was a big project that integrated serval modules. Developed and maintained multiple hybrid mobile applications, Developed Chrome extension. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
     "image": "DNS-tiggee.jpeg",
     "category": "java",
@@ -40,7 +40,7 @@
     "skills": "Bootstrap, Angularjs, UI & UX, Groovy on Grail, Ajax, Jquery, Social Network Plugins JAVA, Spring Boot, MVC, cronJobs. REST API, Kafka, GitHub, Microservices, JSF, JEE, PHP, OOP, ELk, Docker, CI & CD, Jenkins, Google cloud, AWS, Servers management, Third party Services, integrations, PostgreSQL, MongoDB, Redis, Cassandra, Linux OS, concurrent and scalable apps, Stripe Payment gateways."
   },
   {
-    "name": "DNS — Domain Name System (Browser Extensions)",
+    "name": "Constellix DNS — Domain Name System (Browser Extensions)",
     "desc": "Developed a Chrome and Edge extensions. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
     "image": "tiggee-chrome.jpeg",
     "category": "angular",
@@ -48,7 +48,7 @@
     "skills": "Bootstrap, Angularjs, Chrome APIs, CI&CD, linux"
   },
   {
-    "name": "DNS — Domain Name System (Hybrid Mobile Apps)",
+    "name": "Constellix DNS — Domain Name System (Hybrid Mobile Apps)",
     "desc": "Developed a couple of hybrid mobile applications for Android and IOS platform, and maintained multiple hybrid mobile applications, Developed Chrome extension. Worked on multiple sub-projects to enhance the UI functionality and innovate market competitive features.",
     "image": "Tiggee-Mobile.png",
     "category": "hybridmobile",
@@ -56,7 +56,7 @@
     "skills": "Ionic Framework, jquery mobile, cordova, linux"
   },
   {
-    "name": "Telecom Administration Portal",
+    "name": "Nextel Telecom Administration Portal",
     "desc": "Telecom Administration, I have developed its UI screens for their account and line management portal, it comprises multiple functionalities like line verifications, billing, and Invoice synchronization between the System and payment gateway Stripe.",
     "image": "telecom.jpeg",
     "category": "node",
@@ -72,7 +72,7 @@
     "skills": "Ruby on Rails, MVC, Postgresql, Route.io, Stripe, linux"
   },
   {
-    "name": "Health Care System - Website and portals",
+    "name": "CampusMD Health Care System - Website and portals",
     "desc": "Developed a web Administrative portal for Telehealth Services for College Students. Redesigned its web screens.",
     "image": "CampusMD.png",
     "category": "ror",
@@ -80,7 +80,7 @@
     "skills": "Ruby on Rails, MVC, Postgresql, linux"
   },
   {
-    "name": "Cloud CRM",
+    "name": "Cloud Vtiger CRM",
     "desc": "Customized open source php based Vtiger CRM, and add additional modules, and deployed into server to make it cloud based.",
     "image": "vtiger-cloud.png",
     "category": "php",

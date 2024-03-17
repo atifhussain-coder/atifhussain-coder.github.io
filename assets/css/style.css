@@ -1300,3 +1300,7 @@ form .button-area {
   height: 70px;
   width: 70px;
 }
+
+.certpadding {
+  margin: 10px !important;
+}
